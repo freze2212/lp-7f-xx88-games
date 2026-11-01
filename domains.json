@@ -1,14 +1,4 @@
 {
-  "xx88pro.us": {
-    "main_url": "https://xx88e10e01qc.xx88.one/register.html",
-    "messenger_url": "https://xx88e10e01qc.xx88.one/register.html",
-    "telegram_url": "https://xx88e10e01qc.xx88.one/register.html"
-  },
-  "www.xx88pro.us": {
-    "main_url": "https://xx88e10e01qc.xx88.one/register.html",
-    "messenger_url": "https://xx88e10e01qc.xx88.one/register.html",
-    "telegram_url": "https://xx88e10e01qc.xx88.one/register.html"
-  },
   "xox68.net": {
     "main_url": "https://xox6868.xx88n.com/register.html",
     "messenger_url": "https://xox6868.xx88n.com/register.html",
@@ -52,5 +42,15 @@
     "main_url": "https://o5ry1.xx88.win/register.html",
     "messenger_url": "https://o5ry1.xx88.win/register.html",
     "telegram_url": "https://o5ry1.xx88.win/register.html"
+  },
+  "xx88pro.us": {
+    "main_url": "https://www.xx88.one/register?affiliateCode=xx88e10e01qc",
+    "messenger_url": "https://www.xx88.one/register?affiliateCode=xx88e10e01qc",
+    "telegram_url": "https://www.xx88.one/register?affiliateCode=xx88e10e01qc"
+  },
+  "www.xx88pro.us": {
+    "main_url": "https://www.xx88.one/register?affiliateCode=xx88e10e01qc",
+    "messenger_url": "https://www.xx88.one/register?affiliateCode=xx88e10e01qc",
+    "telegram_url": "https://www.xx88.one/register?affiliateCode=xx88e10e01qc"
   }
 }
