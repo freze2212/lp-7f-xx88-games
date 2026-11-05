@@ -33,16 +33,6 @@
     "main_url": "https://t4pts.xx88.one/register.html",
     "messenger_url": "https://t4pts.xx88.one/register.html"
   },
-  "xxqt.net": {
-    "main_url": "https://o5ry1.xx88.win/register.html",
-    "messenger_url": "https://o5ry1.xx88.win/register.html",
-    "telegram_url": "https://o5ry1.xx88.win/register.html"
-  },
-  "www.xxqt.net": {
-    "main_url": "https://o5ry1.xx88.win/register.html",
-    "messenger_url": "https://o5ry1.xx88.win/register.html",
-    "telegram_url": "https://o5ry1.xx88.win/register.html"
-  },
   "xx88pro.us": {
     "main_url": "https://www.xx88.one/register?affiliateCode=xx88e11e17qc",
     "messenger_url": "https://www.xx88.one/register?affiliateCode=xx88e11e17qc",
@@ -52,5 +42,15 @@
     "main_url": "https://www.xx88.one/register?affiliateCode=xx88e11e17qc",
     "messenger_url": "https://www.xx88.one/register?affiliateCode=xx88e11e17qc",
     "telegram_url": "https://www.xx88.one/register?affiliateCode=xx88e11e17qc"
+  },
+  "xxqt.net": {
+    "main_url": "https://a",
+    "messenger_url": "https://a",
+    "telegram_url": "https://a"
+  },
+  "www.xxqt.net": {
+    "main_url": "https://a",
+    "messenger_url": "https://a",
+    "telegram_url": "https://a"
   }
 }
